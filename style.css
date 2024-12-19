@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color: #101220;
+
+}
+button:hover{
+    color: red;
+    border-radius: 30px;
+    background-color: #BFAFF2;
+}
+button{
+    border-radius: 30px;
+    transition: 0.7s;
+    width: 100px;
+    padding: 10px;
+}
+select:hover{
+    transition: 0.5s;
+    color: rgb(255, 255, 255);
+    background-color: #BFAFF2;
+}
+
+
+option{
+   background-color:#232028 ;
+    width: 50px;
+height: 24px;
+top: 62px;
+left: 329px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+select{width: 83px;
+    height: 32px;
+    top: 16px;
+    left: 302px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;
+    background-color: #101220;
+    
+    height: 30px;
+}
+.ong{
+    gap: 20px;
+    display: flex;
+}
+.chap{
+    gap: 20px;
+    display: flex;
+}
+.mavzu{ color: white;
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+text-align: right;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+header{
+     background-color:#0C0E1866;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.kard{ margin: 20px;
+    gap: 10px;
+    position: absolute;
+}
+.rasm-top{
+    position: relative;
+}
+.soz-bottom{
+    color: white;
+    width: 225px;
+height: 290px;
+gap: 0px;
+border-radius: 30px;
+
+padding: 20px;
+bottom: 30px;
+z-index: -2;
+    background-color:#232028 ;
+    position: relative;
+    align-items: center;
+    
+
+
+
+
+font-size: 13px;
+    
+    
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+}
+.rasm-top{
+    z-index: -1;
+    width: 110px;
+}
+footer{justify-content: space-around;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.ong-1{
+    gap: 20px;
+}
+.kard-1:hover{
+    border-radius: 30px;
+    background-position: center;
+     background-size: cover;
+    background-color: #BFAFF2;
+    background-image: url(https://pm1.aminoapps.com/7520/0a1418b273029c3a02f27e58d39527830feaabcbr1-1080-1342v2_hq.jpg);
+}
+.kard-1{
+    transition: 0.5s;
+}
+.kard-2:hover{
+    border-radius: 30px;
+    background-position: center;
+     background-size: cover;
+    background-color: #BFAFF2;
+    background-image: url(https://pm1.aminoapps.com/7520/0a1418b273029c3a02f27e58d39527830feaabcbr1-1080-1342v2_hq.jpg);
+}
+.kard-2{
+    transition: 0.5s;
+}
+.kard-3:hover{
+    border-radius: 30px;
+    background-position: center;
+     background-size: cover;
+    background-color: #BFAFF2;
+    background-image: url(https://pm1.aminoapps.com/7520/0a1418b273029c3a02f27e58d39527830feaabcbr1-1080-1342v2_hq.jpg);
+}
+.kard-3{
+    transition: 0.5s;
+}
+.kard-4:hover{
+    border-radius: 30px;
+    background-position: center;
+     background-size: cover;
+    background-color: #BFAFF2;
+    background-image: url(https://pm1.aminoapps.com/7520/0a1418b273029c3a02f27e58d39527830feaabcbr1-1080-1342v2_hq.jpg);
+}
+.kard-4{
+    transition: 0.5s;
+}
+
+
+
+
+
